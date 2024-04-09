@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ## Sobre Mi
 
+## Projectos Destacados
+
 ## Email's
 
 Pueden contactarme a traves de estos correos electronicos:
@@ -33,7 +35,7 @@ Pueden contactarme a traves de estos correos electronicos:
 
 En el cual somos un par de profesionales especializados en brindar soluciones innovadoras y adaptadas a las necesidades de su empresa u organización. Contamos con una amplia gama de servicios que abarcan desde:
      
-- 🌐 El diseño e implementación de páginas web.
+- 🌐 Diseño e implementación de páginas web.
 - 👨‍💻 Wordpress.
 - 🛒 Tiendas virtuales.
 - 📐 Plataformas de cursos.
