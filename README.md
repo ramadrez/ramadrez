@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Andres Ramirez (Rama)</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/XgEpsB6.png">
+<img src="https://i.imgur.com/iF6PLql.png">
 
 
 <!--
