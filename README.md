@@ -1,4 +1,8 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy Andres Ramirez (Rama)</a> 👋</h1>
+</div>
+<img src="https://imgur.com/a/XgEpsB6">
+
 
 <!--
 **ramadrez/ramadrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+## Sobre Mi
+## Email
+## Frelance Project
