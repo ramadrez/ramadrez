@@ -25,25 +25,25 @@ Pueden contactarme a traves de estos correos electronicos:
 
 ## Frelance Project
 
-###Servicios TecniCompu
+### Servicios TecniCompu
 
 <img src="https://i.imgur.com/uFfe6O9.png">
 
-Servicios TecniCompu es un proyecto freelance de Desarrollo Web. 
-     
+# Servicios TecniCompu es un proyecto freelance de Desarrollo Web. 
+
 En el cual somos un par de profesionales especializados en brindar soluciones innovadoras y adaptadas a las necesidades de su empresa u organización. Contamos con una amplia gama de servicios que abarcan desde:
      
-🌐 El diseño e implementación de páginas web.
-👨‍💻 Wordpress.
-🛒 Tiendas virtuales.
-📐 Plataformas de cursos.
-📶 Servicios web.
-🔎 Gestión de contenido web.
-🚀 Gestión de bases de datos.
-👨‍💻 Soluciones tecnológicas para la automatización de procesos.
-Etc.
+- 🌐 El diseño e implementación de páginas web.
+- 👨‍💻 Wordpress.
+- 🛒 Tiendas virtuales.
+- 📐 Plataformas de cursos.
+- 📶 Servicios web.
+- 🔎 Gestión de contenido web.
+- 🚀 Gestión de bases de datos.
+- 👨‍💻 Soluciones tecnológicas para la automatización de procesos.
+- Etc.
 
-#Contáctanos
+# Contáctanos
 Si estás interesado en alguno de nuestros servicios, no dudes en contactarme.
 
         
