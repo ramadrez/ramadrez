@@ -23,13 +23,13 @@ Pueden contactarme a traves de estos correos electronicos:
 - ramadrez@proton.me
 - ramacode@outlook.com
 
-## Frelance Project
+## Freelance Project
 
 ### Servicios TecniCompu
 
-<img src="https://i.imgur.com/uFfe6O9.png">
+<img src="https://i.imgur.com/crMAsO8.png">
 
-# Servicios TecniCompu es un proyecto freelance de Desarrollo Web. 
+### Servicios TecniCompu es un proyecto freelance de Desarrollo Web. 
 
 En el cual somos un par de profesionales especializados en brindar soluciones innovadoras y adaptadas a las necesidades de su empresa u organización. Contamos con una amplia gama de servicios que abarcan desde:
      
@@ -43,14 +43,14 @@ En el cual somos un par de profesionales especializados en brindar soluciones in
 - 👨‍💻 Soluciones tecnológicas para la automatización de procesos.
 - Etc.
 
-# Contáctanos
-Si estás interesado en alguno de nuestros servicios, no dudes en contactarme.
+### Contáctanos
+Si estás interesado en alguno de nuestros servicios, no dudes en contactarme. Puedes hacerlo a mi privado o a uno de estos medios a continuación:
 
-        
+    
 ✉ Email: serviciostecnicompu@gmail.com.
 
 🙍‍♂️ Redes Sociales: 
 - Linkedin: <a href="https://www.linkedin.com/company/tecnicompu/">Servicios TecniCompu</a> 
 - Instagram: <a href="https://www.instagram.com/stecnicompu/">@stecnicompu</a> 
 
-<img src="https://i.imgur.com/uFfe6O9.png">
+<img src="https://i.imgur.com/XQioFux.png">
