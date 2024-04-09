@@ -27,7 +27,7 @@ Pueden contactarme a traves de estos correos electronicos:
 
 ### Servicios TecniCompu
 
-<img src="https://i.imgur.com/crMAsO8.png">
+<img src="https://i.imgur.com/7twc8Oz.png">
 
 ### Servicios TecniCompu es un proyecto freelance de Desarrollo Web. 
 
