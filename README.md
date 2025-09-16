@@ -1,26 +1,28 @@
 <img src="https://i.imgur.com/uFfe6O9.png">
+<br>
+<a href="https://t.me/drez0" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40drez0-0088cc"></a>
+<a href="https://www.linkedin.com/in/aramirezengineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andres Ramirez-informational"></a>
+<a href="mailto:aramirezengineer@gmail.com"><img src="https://img.shields.io/badge/Email-aramirezengineer%40gmail.com-red"></a>
+<a href="mailto:ramacode@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-ramacode%40outlook.com-blue"></a>
 
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hola! 👋, Bienvenido a mi Pagina
 
-## Sobre Mi
+#### ¡Hola! Soy Andres, Ingeniero en Informática residenciado en Venezuela 🇻🇪 <img src="https://cdn-icons-png.flaticon.com/512/197/197580.png" width="15"/><br>
+ - Estas son algunas de las herramientas que utilizo:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 ## Projectos Destacados
 
-## Email's
+## Estadisticas
 
-Pueden contactarme a traves de estos correos electronicos:
-- aramirezengineer@gmail.com
-- ramadrez@proton.me
-- ramacode@outlook.com
+![Ramadrez GitHub stats](https://github-readme-stats.vercel.app/api?username=ramadrez&theme=dark&show_icons=true)
+<img height="154em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadrez&layout=compact&langs_count=8&theme=dark"/>
