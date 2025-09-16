@@ -25,8 +25,8 @@
 
 <p align="center">
 <a href="https://github.com/ramadrez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramadrez&theme=dark&show_icons=true"/>  
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadrez&layout=compact&langs_count=8&theme=dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ramadrez&theme=dark&show_icons=true"/>  
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ramadrez&layout=compact&langs_count=8&theme=dark"/>
 </a>
 </p>
 
