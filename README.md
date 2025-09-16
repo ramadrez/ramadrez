@@ -1,5 +1,4 @@
 <img src="https://i.imgur.com/uFfe6O9.png">
-<br>
 <a href="https://t.me/drez0" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40drez0-0088cc"></a>
 <a href="https://www.linkedin.com/in/aramirezengineer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Andres Ramirez-informational"></a>
 <a href="mailto:aramirezengineer@gmail.com"><img src="https://img.shields.io/badge/Email-aramirezengineer%40gmail.com-red"></a>
