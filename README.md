@@ -6,7 +6,7 @@
 
 
 
-## Hola! 👋, Bienvenido a mi Pagina
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3NxZXFtamFxdzE0OWl5bGx3MnFta2hjODl6dGw1OWM3MHpxenZyNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/553ZGCzYHSQHXiFKA8/giphy.gif" width="70"/> Bienvenido a mi Pagina 👋
 
 #### ¡Hola! Soy Andres, Ingeniero en Informática residenciado en Venezuela 🇻🇪 <img src="https://cdn-icons-png.flaticon.com/512/197/197580.png" width="15"/><br>
  - Estas son algunas de las herramientas que utilizo:
@@ -17,11 +17,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-
-## Projectos Destacados
-
-## Estadisticas
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXJmODJjY3JpbHB4NnZnZGNvcHh0ajdrazl3dGE0aDkyNDJubnpseCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" width="70"/> Estadisticas!!
 
 <p align="center">
 <a href="https://github.com/ramadrez">
